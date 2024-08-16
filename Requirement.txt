@@ -1,0 +1,13 @@
+streamlit
+pypdfium2
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+numpy
+ollama
+validators
+docx2txt
+langchain
+groq
+python-dotenv
